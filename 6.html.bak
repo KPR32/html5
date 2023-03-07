@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<link rel="stylesheet" href="style_menu.css" type="text/css" />
+			<title>Второе окно</title>
+		</head>
+		<body bgcolor="#CCFFFF">
+		<h1 id="blue">Проекты таунхаусов и блокированных домов</h1>	
+		<h4 id="blue_2">В данном разделе каталого проектов загородных домов размещена выборка
+		архитектурных проектов таунхаусов, домов с возможностью пристройки, блокировки.</h4>
+		<table width="100%" border="1" height="250"
+ style="font-size: 16pt ">
+		<tr>
+		<td>
+		<img src="img_townhouse/d-152-1d.jpg" alt="лого" />
+ <br /><a href="5.html" target="main">Проект D-152-1D</a>
+ <br />Архитектурный проект дома из бруса.
+ <br />Небольшой, но очень уютный
+ <br />загородный дом</td>
+<td><img src="img_townhouse/h-173-1p.jpg" alt="лого" />
+ <br />Проект H-173-1P
+ <br />Дом двухэтажный,
+ <br />с двускатной кровлей.</td>
+ <td><img src="img_townhouse/r-265-1p.jpg" alt="лого" />
+ <br />Проект R-189-1P
+ <br />Удобный коттедж, для постоянного
+ <br />проживания небольшой семьи. Внизу -
+ <br />помещения общего пользования</td>
+		</tr>
+		</body>
+	</html>	
